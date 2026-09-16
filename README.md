@@ -1,3 +1,7 @@
+## Parcours français
+
+Un parcours pédagogique en français présente les primitives Ethereum, les providers RPC, les réseaux, les transactions, les signers et les bindings Solidity d’Alloy. Voir [docs/fr/README.md](docs/fr/README.md).
+
 # Alloy
 
 Alloy connects applications to blockchains.
